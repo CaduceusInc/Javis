@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Preated on: Tue May 28 01:49:42 2020 am
+Created on: Tue May 28 01:49:42 2020 am
 
 @author: wale
 """

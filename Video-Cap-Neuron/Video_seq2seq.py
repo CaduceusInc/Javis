@@ -1,5 +1,5 @@
 #o-*- coding: utf-8 -*-
-__author__ = "Santanu Pattanayak"
+__author__ = "Wale Opakunle"
 
 import tensorflow as tf
 import pandas as pd
